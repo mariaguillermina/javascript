@@ -57,13 +57,13 @@ class Producto{
 
 //Lista de Productos//
 
-const producto1 = new Producto(1,'Kit Limpieza Facial',2500,1000,'Incluye: Fórmula Limpieza, Plasma Infusion serum, Plasma Infusion crema, máscara de limpieza','./img/kit limpieza.jpg','Comprar',true);
+const producto1 = new Producto(1,'Kit Limpieza Facial',2500,1000,'Incluye: Fórmula Limpieza, Plasma Infusion serum, Plasma Infusion crema, máscara de limpieza','./jQuery/img/kit limpieza.jpg','Comprar',true);
 
-const producto2 = new Producto(2,'Kit Vitamina C',2500,800,'Incluye: Racian C Serum, Radian C crema facial.','./SASS/img/kit radian c.jpg', 'Comprar',true);
+const producto2 = new Producto(2,'Kit Vitamina C',2500,800,'Incluye: Racian C Serum, Radian C crema facial.','./jQuery/img/kit radian c.jpg', 'Comprar',true);
 
-const producto3 = new Producto(3,'Kit Anti Acné',2000,100,'Incluye: Intensive Clearser, Tratamiento Acne detox, Tratamiento puntual acné.','./img/acne kit.jpg', 'Comprar',true);
+const producto3 = new Producto(3,'Kit Anti Acné',2000,100,'Incluye: Intensive Clearser, Tratamiento Acne detox, Tratamiento puntual acné.','./jQuery/img/acne kit.jpg', 'Comprar',true);
 
-const producto4 = new Producto(4,'Protector Solar',1500,2000,'Inluye: 1 protector solar','./img/protector.jpg', 'Comprar',true);
+const producto4 = new Producto(4,'Protector Solar',1500,2000,'Inluye: 1 protector solar','./jQuery/img/protector.jpg', 'Comprar',true);
 
 
 //Carrito//
